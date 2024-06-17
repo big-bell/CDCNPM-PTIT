@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\chbhth\\models\\qlbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\models\\qlbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\chbhth\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\chbhth\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\chbhth\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\chbhth\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 143,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QLbanhang.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\QLbanhang.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Models\\QLbanhang.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\QLbanhang.cs",
+              "RelativeToolTip": "CHBHTH\\Models\\QLbanhang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:40:49.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sanphamController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\sanphamController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Controllers\\sanphamController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\sanphamController.cs",
+              "RelativeToolTip": "CHBHTH\\Controllers\\sanphamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:40:09.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:34:11.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\CHBHTH\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\CHBHTH\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "CHBHTH\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:33:59.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\CHBHTH\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\CHBHTH\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "CHBHTH\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:28:47.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\CHBHTH\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\CHBHTH\\CHBHTH\\CHBHTH\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "CHBHTH\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:28:37.183Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
