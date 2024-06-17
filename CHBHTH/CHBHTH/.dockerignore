@@ -1,3 +1,79 @@
-*
-!obj\Docker\publish\*
-!obj\Docker\empty\
+# .dockerignore for ASP.NET MVC project
+
+# Ignore node_modules and other dependencies
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Ignore build directories
+bin
+obj
+
+# Ignore user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore logs and other system files
+*.log
+.vscode/
+.idea/
+*.mdf
+*.ldf
+.vscode/
+*.log
+*.tlog
+*.pdb
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore package management files
+packages/
+.vscode/
+
+# Ignore publish output
+publish/
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.cache
+*.bak
+*.swp
+
+# Ignore coverage files
+coverage/
+*.coverage
+*.coveragexml
+
+# Ignore deployment related files
+.deploy/
+.deploy_cache/
+.Dockerfile
+docker-compose.yml
+docker-compose.override.yml
+
+# Ignore Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Ignore various Visual Studio specific files
+.vs/
+.vscode/
+.vscode/*
+
+# Ignore IDE specific files
+.idea/
+.idea/*
+
+# Ignore JetBrains Rider project files
+.idea
+.idea/*
+*.sln.iml
+
+# Ignore Azure Pipelines artifacts
+azure-pipelines.yml
+
